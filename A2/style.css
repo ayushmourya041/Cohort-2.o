@@ -1,0 +1,44 @@
+ {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+html,
+body {
+  height: 100%;
+  width: 100%;
+  
+}
+
+main {
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  background-color: #8d815f;
+  background-position: center;
+  background-image: url(https://cdn.wallpapersafari.com/28/36/p5D9tA.jpg);
+  background-size: cover;
+  font-style: oblique;
+  
+}
+h1 {
+  color: white;
+  font-size: 180px;
+  padding-top: 10px;
+  background-color: #8d815f;
+  padding: 50px;
+  border: 10px solid black;
+  border-radius: 100px;
+  display: inline-block;
+  padding: 50px 1780px;
+  margin-top: 9px;
+}
+button {
+  font-size: 60px;
+  padding: 20px 50px;
+  background-color: #b2a38e;
+  border: 7px solid black;
+  border-radius: 20px;
+  font-style: oblique;
+  font-weight: 600;
+}
