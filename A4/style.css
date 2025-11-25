@@ -110,33 +110,36 @@ button {
 
 }
 
-#top2 button {
-  width: 110px;
-  height: 40px;
-  color: white;
-  background-color: #50b9f0;
-  border: none;
-  border-radius: 20px;
-  font-weight: 600;
-  font-size: 15px;
-}
+
 
 
 
 
 
 #top3 {
+
   width: 100%;
-  height: 50%;
-  color: black;
-  text-align: center;
-  padding: 10px;
+  height: 100%;
+  color: black !important;
+  padding: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-direction: column;
+  gap: 10px;
   background-image: url(https://www.apple.com/v/home/ch/images/heroes/iphone-17/hero_iphone_17__c5vvimu9a20y_largetall_2x.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
 }
 
+#top3 h1 {
+  font-size: 50px;
+}
+
+
+
 #top3 h3 {
-  padding: 5px;
+  font-size: 30px;
+
 }
