@@ -1,3 +1,4 @@
+
 * {
   margin: 0%;
   padding: 0%;
@@ -24,27 +25,32 @@ body {
 #nav a {
   color: black;
   font-size: 60px;
-  margin: 30px;
+  margin: 70px;
   text-decoration: none; 
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 #main>h1{
-    font-size: 800px;
+    font-size: 900px;
     font-weight: 400;
     padding-left: 70px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 #btmleft{
     position: absolute;
-    bottom: 30%;
+    bottom: 25%;
     left: 3%;
-    width: 300px;
+    width: 600px;
+    
     
 
 }
 
 #btmleft h3{
     font-size: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+
     
 }
 
@@ -52,11 +58,13 @@ body {
 #btmleft h4{
     margin-top: 50px;
     font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 #btmleft p{
     font-size: 40px;
     margin-top: 5px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 #bottombar{
@@ -68,40 +76,49 @@ body {
     left: 0;
     padding: 30px 70px;
     font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
 
 }
 
+#bottombar>h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
 
     #bottombar a{
         text-decoration: none;
         font-size: 60px;
          color: black;
+         font-family: Arial, Helvetica, sans-serif;
 
     } 
 
 
     #main>img{
         position: absolute;
-        height: 600px;
+      
     } 
 
-    #frist{
-        height: 400px !important; 
-        top: 40%;
-        left: 33%;
-    }
-
-    #main #second{
-        height: 650px;
-        top: 35%;
+    #third{
+        height: 1050px; 
+        top: 30%;
         left: 44%;
     }
 
-    #third{
-        height: 700px !important; 
-        top: 55%;
-        left: 37%;
+    #main #second{
+        height: 1100px;
+        top: 32%;
+        left: 57%;
     }
+
+    #frist{
+        height: 950px; 
+        top: 33%;
+        left: 69%;
+    }
+
+    
+
+    
      
 
     

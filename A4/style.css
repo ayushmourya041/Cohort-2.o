@@ -80,6 +80,7 @@ button {
   font-weight: 600;
   font-size: 15px;
   margin: 0px 20px;
+  
 }
 
 #top2 {
@@ -107,7 +108,7 @@ button {
 
 #top2 h3 {
   font-size: 30px;
-
+  margin-bottom: 10px;
 }
 
 
@@ -141,5 +142,6 @@ button {
 
 #top3 h3 {
   font-size: 30px;
+  margin-bottom: 10px;
 
 }
