@@ -24,10 +24,10 @@ main {
   
   
 }
-p {
+#paragraf {
   color: white;
   font-size: 200px;
-  margin: auto;
+  margin-top: auto;
   padding-top: 1700px;
   margin-left: 600px;
   font-family: exo;
