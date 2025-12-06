@@ -2,16 +2,17 @@
   font-family: exo;
   src: url(./exo_2/Exo2-ExtraLight.otf);
 }
- {
+
+* {
   margin: 0%;
   padding: 0%;
   box-sizing: border-box;
 }
+
 html,
 body {
   height: 100%;
   width: 100%;
-  
 }
 
 main {
@@ -21,8 +22,6 @@ main {
   background-position: center;
   background-image: url(https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2Fyc3xlbnwwfHwwfHx8MA%3D%3Dhttps://cdn.wallpapersafari.com/28/36/p5D9tA.jpg);
   background-size: cover;
-  
-  
 }
 #paragraf {
   color: white;
